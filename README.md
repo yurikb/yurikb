@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I’m currently a dev student, learning front-end
+
+📫 How to reach me: yuri.kollerborba@gmail.com
+
 <!--
 **yurikb/yurikb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
