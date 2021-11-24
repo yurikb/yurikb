@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently a dev student, learning front-end
+🌱 I’m currently a Java Dev Student.
 
 📫 How to reach me: yuri.kollerborba@gmail.com
 
