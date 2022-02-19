@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently studying Java, Front-end, Angular and Spring boot.
+🌱 I’m currently studying Java, Front-end, Bootstrap, Angular and Spring boot.
 
 📫 How to reach me: yuri.kollerborba@gmail.com
 
