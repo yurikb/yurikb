@@ -6,7 +6,7 @@
 📫 How to reach me: yuri.kollerborba@gmail.com
 
 ![Yuri's github stats](https://github-readme-stats.vercel.app/api?username=yurikb&show_icons=true&theme=radical)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF00FF?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/yuri-koller-borba/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF00FF?style=flat&labelColor=000000&logo=Linkedin&Color=white)](https://www.linkedin.com/in/yuri-koller-borba/)
 
 <!--
 **yurikb/yurikb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
