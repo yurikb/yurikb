@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 🌱 I’m currently studying Java, SQL, Bootstrap, Angular and Spring boot.
-🔭 I’m currently working on Bootstrap/Angular
+
+🔭 I’m currently working on Bootstrap/Angular.
 
 📫 How to reach me: yuri.kollerborba@gmail.com
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFFFFF?style=flat&labelColor=000000&logo=Linkedin&Color=white)](https://www.linkedin.com/in/yuri-koller-borba/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&labelColor=FFFFFF&logo=Linkedin&Color=white)](https://www.linkedin.com/in/yuri-koller-borba/)
 
 ![Yuri's github stats](https://github-readme-stats.vercel.app/api?username=yurikb&show_icons=true&theme=radical)
 
