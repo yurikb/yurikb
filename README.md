@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Yuri Koller Borba 👋
 
 🌱 I’m currently studying Java, SQL, Bootstrap, Angular and Spring boot.
 
