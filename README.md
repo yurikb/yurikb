@@ -6,7 +6,7 @@
 
 📫 How to reach me: yuri.kollerborba@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&labelColor=000000&logo=Linkedin&Color=white)](https://www.linkedin.com/in/yuri-koller-borba/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D0D0D?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/yuri-koller-borba/)
 
 ![Yuri's github stats](https://github-readme-stats.vercel.app/api?username=yurikb&show_icons=true&theme=radical)
 
