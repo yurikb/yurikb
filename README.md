@@ -1,8 +1,8 @@
 ### Hi there, I'm Yuri Koller Borba 👋
 
-🌱 I’m currently studying Java, SQL, Bootstrap, Angular and Spring boot.
+🌱 I’m currently studying Java (Spring Boot/Data), MySQL, Angular and Bootstrap
 
-🔭 I’m currently working on Bootstrap/Angular.
+🔭 I’m currently working on Spring Boot/Data and Angular
 
 📫 How to reach me: yuri.kollerborba@gmail.com
 
