@@ -1,8 +1,6 @@
 ### Hi there, I'm Yuri Koller Borba 👋
 
-🌱 I’m currently studying Java (Spring Boot/Data), Angular, MySQL and Bootstrap
-
-🔭 I’m currently working on fullstack Spring Boot, Data, Angular and MySQL
+🌱 I’m a Full Stack Jr. Developer with knowledge in Spring Boot/Data (Java), Angular (HTML, CSS, JavaScript/TypeScript), MySQL, Bootstrap and Docker
 
 <h3> - Technologies </h3>
 
