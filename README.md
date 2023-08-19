@@ -1,8 +1,29 @@
 ### Hi there, I'm Yuri Borba 👋
 
-🌱 I’m a Full-Stack Developer with knowledge in Spring Boot/Data (Java), Angular 2+, AngularJS and React (HTML, CSS, JavaScript/TypeScript), MySQL/PostgreSQL, NodeJS
+🌱 I'm a Full Stack Developer!
 
-<h3> - Technologies </h3>
+I have knowledge with the following stacks:
+Back-end:
+Java
+Spring Boot
+Spring Data
+Node
+
+Front-end
+Angular 2+
+AngularJS
+React
+JavaScript
+TypeScript
+HTML
+CSS
+
+Databases:
+MySQL/PostgreSQL/SQL
+
+Unit Tests:
+JUnit
+Mockito
 
 - Languages
 
@@ -38,6 +59,8 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img align="center" alt="logo Angular" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+    <img align="center" alt="logo react" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/react/react-original.svg" />
     <img align="center" alt="logo bootstrap" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 
