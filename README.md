@@ -3,13 +3,13 @@
 🌱 I'm a Full Stack Developer!
 
 I have knowledge with the following stacks:
-Back-end:
+Back-end: 
 Java
 Spring Boot
 Spring Data
 Node
 
-Front-end
+Front-end: 
 Angular 2+
 AngularJS
 React
@@ -18,10 +18,10 @@ TypeScript
 HTML
 CSS
 
-Databases:
+Databases: 
 MySQL/PostgreSQL/SQL
 
-Unit Tests:
+Unit Tests: 
 JUnit
 Mockito
 
