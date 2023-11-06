@@ -8,7 +8,7 @@ I'm working in the industry since June 2022. I love improving my programming ski
 Backend: <br> [![Backend](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev) <br>
 Frontend: <br> [![Frontend](https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap)](https://skillicons.dev) <br>
 Databases: <br> [![Databases](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev) <br>
-Tools: <br> [![Tools](https://skillicons.dev/icons?i=git,gitlab,github,postman)](https://skillicons.dev) <br>
+Tools: <br> [![Tools](https://skillicons.dev/icons?i=git,gitlab,github,postman,aws)](https://skillicons.dev) <br>
 IDEs: <br> [![IDE](https://skillicons.dev/icons?i=idea,vscode,eclipse)](https://skillicons.dev) <br>
 Backend Unit Tests: <br> JUnit, Mockito <br>
 
