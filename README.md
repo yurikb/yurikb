@@ -1,19 +1,18 @@
-### Hi there, I'm Yuri Borba 👋
+# Hi there, I'm Yuri Borba 👋
 
 I'm a Full Stack Developer! <br>
-I'm working in the industry since June 2021.
+I'm working in the industry since June 2022. I love improving my programming skills and I'm always open to learn.
 
 # Technologies
 
 Backend: <br> [![Backend](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev) <br>
-Frontend: <br> [![Frontend](https://skillicons.dev/icons?i=angular,ts,js,html,css)](https://skillicons.dev) <br>
+Frontend: <br> [![Frontend](https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap)](https://skillicons.dev) <br>
 Databases: <br> [![Databases](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev) <br>
-Tools: <br> [![Tools](https://skillicons.dev/icons?i=git,gitlab,github,jira)](https://skillicons.dev) <br>
+Tools: <br> [![Tools](https://skillicons.dev/icons?i=git,gitlab,github,postman)](https://skillicons.dev) <br>
+IDEs: <br> [![IDE](https://skillicons.dev/icons?i=idea,vscode,eclipse)](https://skillicons.dev) <br>
 Backend Unit Tests: <br> JUnit, Mockito <br>
 
-📫 How to reach me: yuri.kollerborba@gmail.com
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D0D0D?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/yuri-koller-borba/)
+### 📫 How to reach me: [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yuri-koller-borba/) or yuri.kollerborba@gmail.com
 
 <!-- 
 Back-end: Java, Spring Boot, Spring Data, Node
@@ -23,6 +22,8 @@ Front-end: Angular 2+, AngularJS, JavaScript, TypeScript, HTML, CSS
 Databases: MySQL, PostgreSQL
 
 ![Yuri's github stats](https://github-readme-stats.vercel.app/api?username=yurikb&show_icons=true&theme=radical)
+
+### [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D0D0D?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/yuri-koller-borba/)
 
 <div style="display: inline_block">
     <img align="center" alt="logo Java" height="30" width="40"
