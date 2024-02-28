@@ -6,13 +6,13 @@ I'm working in the industry since June 2022. I love improving my development ski
 # Technologies
 
 Backend: <br> [![Backend](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev) <br>
-Frontend: <br> [![Frontend](https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap)](https://skillicons.dev) <br>
+Frontend: <br> [![Frontend](https://skillicons.dev/icons?i=angular,ts,js,html,css)](https://skillicons.dev) <br>
 Databases: <br> [![Databases](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev) <br>
 Tools: <br> [![Tools](https://skillicons.dev/icons?i=git,gitlab,github,postman,aws)](https://skillicons.dev) <br>
-IDEs: <br> [![IDE](https://skillicons.dev/icons?i=idea,vscode,eclipse)](https://skillicons.dev) <br>
+IDEs: <br> [![IDE](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev) <br>
 Backend Unit Tests: <br> JUnit, Mockito <br>
 
-### 📫 How to reach me: [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yuri-koller-borba/) or yuri.kollerborba@gmail.com
+### 📫 How to reach me: yuri.kollerborba@gmail.com or [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yuri-koller-borba/)
 
 <!-- 
 Back-end: Java, Spring Boot, Spring Data, Node
