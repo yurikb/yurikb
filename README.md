@@ -1,7 +1,7 @@
 # Hi there, I'm Yuri Borba 👋
 
 I'm a Fullstack Developer, proficient with Java Spring and Angular! <br>
-I'm working in the industry since June 2022. I love improving my programming skills and I'm always open to learn.
+I'm working in the industry since June 2022. I love improving my development skills and I'm always open to learn.
 
 # Technologies
 
